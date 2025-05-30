@@ -1,0 +1,17 @@
+question,answer,model_answer,human_score,model_score,score_diff
+Which stain is used for staining fungal elements?,Methenamine silver,Gomori Methenamine Silver.,0.5,0.8,0.30000000000000004
+"A 14-year-old girl presents with quadriparesis, facial palsy, winging of scapula and ptosis. There is h/o similar illness in father and brother but less severe. Her CPK level is also raised (500IU/L). She is probably suffering from?",Scapulofaciohumeral dystrophy,"Late-onset Pompe disease.
+
+[This answer is based on the symptoms and lab result provided, consistent with medical literature. However, a definitive diagnosis should be made by a healthcare professional using a comprehensive clinical assessment and appropriate confirmatory tests.]",0.5,0.9,0.4
+Test for diagnosis of pyogenic meningitis is?,CSF examination,"CSF culture. Explanation: Cerebrospinal fluid (CSF) culture is a common and reliable test for diagnosing pyogenic meningitis. It directly identifies the bacterial pathogen causing the infection. However, it's important to note that other tests like CSF cell count, protein level, and glucose level, as well as blood cultures and imaging studies, may also be used in the diagnostic process.",0.65,0.95,0.29999999999999993
+Which main enzyme is responsible for activation of xenobiotics?,Cytochrome P-450,Cytochrome P450. This group of enzymes is primarily responsible for the metabolism and activation of xenobiotics in the body.,1.0,1.0,0.0
+"Which vitamin reduces the risk of insulin resistance, obesity, and the metabolic syndrome?",Vitamin D,"Vitamin D deficiency has been linked to an increased risk of insulin resistance, obesity, and the metabolic syndrome. Therefore, ensuring adequate vitamin D levels could potentially help reduce these risks. However, it's important to note that this does not confirm causation, and other factors may also be involved. Always consult with a healthcare professional for medical advice.",1.0,1.0,0.0
+What is the IUPAC name of CH3COOH?,Ethanoic acid,Ethanoic acid,1.0,1.0,0.0
+A 75-year-old man is found by his internist to have an asymptomatic carotid bruit. The best initial diagnostic examination would be,Doppler ultrasonography (duplex),"Carotid duplex ultrasound. This non-invasive test is often used to evaluate carotid bruits, which may suggest the presence of carotid artery stenosis.",0.8,1.0,0.19999999999999996
+Which Drug causes malignant hyperthermia ?,Suxamethonium,"Succinylcholine, primarily. Also, certain inhaled anesthetics can trigger this rare but life-threatening condition.",0.7,1.0,0.30000000000000004
+A 20 year old male presents with features of acute renal failure 5 days after an episode of diarrhea. Blood examination shows thrombocytopenia and Hb10 gm%. Likely cause is:,Haemolytic uremic syndrome,"Hemolytic-uremic syndrome.
+
+This answer is based on the patient's age, recent diarrheal episode, and the presence of thrombocytopenia and mild anemia (Hb 10 gm%). Hemolytic-uremic syndrome (HUS) is a common cause of acute renal failure in young adults following a diarrheal illness, especially when associated with Shiga toxin-producing Escherichia coli (STEC) infections. HUS is characterized by the triad of microangiopathic",1.0,1.0,0.0
+Gene involved in Cowden syndrome is ?,PTEN,"PTEN
+
+(This answer is based on medically accurate and verified information. Cowden syndrome is primarily caused by mutations in the PTEN gene.)",1.0,1.0,0.0

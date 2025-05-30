@@ -1,0 +1,32 @@
+question,answer,model_answer,human_score,model_score,score_diff
+"A bag contains 8 balls, whose colours are either white or black. 4 balls are drawn at random without
+replacement and it was found that 2 balls are white and other 2 balls are black. The probability that the bag
+contains equal number of white and black balls is:",0.285,Not enough information,0.9,0.0,0.9
+"Let Ajay will not appear in JEE exam with probability p=(2/7) , while both Ajay and Vijay will appear in the
+exam with probability q=(1/5) . Then the probability, that Ajay will appear in the exam and Vijay will not appear
+is :",0.514,(1/5) - (2/35),0.87,0.94,0.06999999999999995
+"A fair die is tossed repeatedly until a six is obtained. Let X denote the number of tosses required and let a=P(X=3), b = P(X>=3) and c = P( X>=6 | X>3 ). Then (b+a)/a is equal to_____",12.0,"4/a, given X follows a geometric distribution with success probability 1/6 for each toss.",0.0,0.85,0.85
+"An urn contains 6 white and 9 black balls. Two successive draws of 4 balls are made without replacement. The
+probability, that the first draw gives all white balls and the second draw gives all black balls, is :",0.004,"Zero probability.
+
+This is because there are only 6 white balls in the urn, and the first draw is for 4 balls. Therefore, it's impossible to draw all white balls in the first draw, making the probability zero.",0.9,0.95,0.04999999999999993
+"A fair die is thrown until 2 appears. Then the probability, that 2 appears in even number of throws , is",0.454,"Not enough information.
+
+The question involves probability and a random process, but it doesn't provide enough information about the sequence of die rolls for a precise answer. In order to calculate the probability, we would need to know the specific rules or conditions governing the sequence of rolls after the first 2 appears.",0.7,0.95,0.25
+"An integer is chosen at random from the integers 1, 2, 3, ..., 50. The probability that the chosen integer is a
+multiple of atleast one of 4, 6 and 7 is",0.42,Not enough information,0.8,0.2,0.6000000000000001
+"Two integers x and y are chosen with replacement from the set {0, 1, 2, 3,.., 10} . Then the probability that
+|x-y| >5 is :",0.248,"Not enough information.
+
+The question lacks sufficient information to provide an accurate answer. The probability of the absolute difference between two integers drawn with replacement from a given set exceeding a certain value cannot be determined without additional information about the distribution or selection process.",0.7,0.9,0.20000000000000007
+"Bag A contains 3 white, 7 red balls and bag B contains 3 white, 2 red balls. One bag is selected at random and
+a ball is drawn from it. The probability of drawing the ball from the bag A , if the ball drawn in white, is :",0.33,Probability cannot be determined with the given information. The color of the ball drawn doesn't provide sufficient information to determine which bag it came from.,0.0,0.9,0.9
+"Two marbles are drawn in succession from a box containing 10 red, 30 white, 20 blue and 15 orange marbles,
+with replacement being made after each drawing. Then the probability, that first drawn marble is red and
+second drawn marble is white, is",0.053,Product of probabilities: 10/100 * 30/100.,1.0,1.0,0.0
+"Three rotten apples are accidently mixed with fifteen good apples. Assuming the random variable x to be the
+number of rotten apples in a draw of two apples, the variance of x is",0.261,Not enough information,0.8,0.25,0.55
+"A coin is based so that a head is twice as likely to occur as a tail. If the coin is tossed 3 times, then the
+probability of getting two tails and one head is-",0.22,"Not enough information.
+
+The question lacks sufficient data about the coin's bias, which is required to calculate the probability.",0.65,0.95,0.29999999999999993

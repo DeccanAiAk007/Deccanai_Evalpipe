@@ -1,0 +1,7 @@
+transformers
+accelerate
+pandas
+scikit-learn
+tqdm
+ollama
+torch

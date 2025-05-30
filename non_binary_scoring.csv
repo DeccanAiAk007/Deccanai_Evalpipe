@@ -1,0 +1,6 @@
+question,ground_truth,Relevance_human,Succinctness_human,Medical Correctness_human,Hallucination_human,Completeness_human,Coherence_human
+Has the patient been prescribed treatment for asthma?,"Yes, the patient has been prescribed albuterol sulfate and Trelegy, both indicated for asthma.",3,3,3,3,3,3
+Is the patient allergic to penicillin?,"Yes, penicillin allergy is listed in the patient's allergy history.",3,3,3,3,3,3
+Are there any recent abnormal lab results?,"Yes, the patient's hemoglobin levels are low and potassium is elevated.",3,2,3,3,3,2
+Does the patient have a family history of diabetes?,"No, there is no documented family history of diabetes.",3,3,3,3,3,3
+What medications is the patient currently taking for hypertension?,The patient is currently prescribed amlodipine and losartan for blood pressure control.,3,3,3,3,3,3

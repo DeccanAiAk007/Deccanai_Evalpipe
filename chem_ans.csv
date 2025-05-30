@@ -1,0 +1,16 @@
+question,answer,model_answer,human_score,model_score,score_diff
+Which compound is responsible for the smell of vinegar?,Acetic acid,Acetic acid,1.0,1.0,0.0
+Which compound gives bananas their characteristic smell?,Isoamyl acetate,Isopentyl acetate. It's a volatile ester that contributes to the characteristic aroma of bananas.,1.0,0.95,0.050000000000000044
+Which compound is the main component of natural gas?,Methane,"Methane, specifically, is the primary component of natural gas.",1.0,1.0,0.0
+Which compound is commonly known as table salt?,Sodium chloride,Sodium chloride,1.0,1.0,0.0
+Which compound has the chemical formula H2O?,Water,Water (H2O),1.0,1.0,0.0
+"Which compound, also known as Freon-12, was once widely used as a refrigerant?",Dichlorodifluoromethane,Dichlorodifluoromethane,1.0,1.0,0.0
+"Which compound, found in citrus fruits, gives them their sour taste?",Citric acid,Citric acid,1.0,1.0,0.0
+Which compound is commonly known as laughing gas?,Nitrous oxide,Nitrous oxide,1.0,1.0,0.0
+Which compound is released when coal is burned and contributes to acid rain?,Sulfur dioxide,"Carbon dioxide (CO2). However, sulfur dioxide (SO2) and nitrogen oxides (NOx), which also contribute to acid rain, are released when coal is burned with impurities.",0.8,0.95,0.1499999999999999
+"Which compound, with formula NH3, is commonly used as a household cleaning agent?",Ammonia,Ammonia solution,0.9,0.95,0.04999999999999993
+"Which compound, also known as baking soda, has the chemical formula NaHCO3?",Sodium bicarbonate,Sodium bicarbonate,1.0,1.0,0.0
+Which compound is commonly known as aspirin?,Acetylsalicylic acid,Acetylsalicylic acid,1.0,1.0,0.0
+Which compound is the primary component of limestone and marble?,Calcium carbonate,Calcium carbonate,1.0,1.0,0.0
+Which compound has the foul smell of rotten eggs?,Hydrogen sulfide,Hydrogen sulfide.,1.0,1.0,0.0
+Which compound is the main constituent of quartz and sand?,Silicon dioxide,Silicon dioxide,1.0,1.0,0.0
